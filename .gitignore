@@ -1,0 +1,10 @@
+# .gitignore 推荐内容
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.log
+datasets/
+runs/
+.idea/
+.vscode/
